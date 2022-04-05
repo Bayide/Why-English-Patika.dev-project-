@@ -1,4 +1,4 @@
-# Why-English (Patika.dev-project)
+# Why English 
  Merhabalar böyle bir blog  yazısı ile giriş yapmak istedim her zaman duyuruyoruz off ingilizce hemen sağa tıkla oradan türkçe çeviri yap evet her şey istediğimiz gibi çünkü anlıyoruz peki ya progralama dillerinde araştırma yapınca ingilizce kaynak her zaman karşımıza çıktığı zaman hep aynı işlemi yapmak sıkıcı olmuyor mu :) 
 veya kod yazdığımız zaman kod editörlerine  ihtiyaç duyduğumuz zaman ingilizce karşımıza çıkması                                                                                              ![images](https://user-images.githubusercontent.com/63980885/161452477-5e8f5f95-bd7c-4e53-bad1-ec846624d47d.jpg)
 
@@ -6,5 +6,9 @@ iyi güzel anladık diyorsunuzda neden ingilizce öğrenmesek olmaz mı çeviri 
 
 -İngilizce Öğrenmek Kariyerinizde Yükselmenizi Sağlar
 -İngilizce Öğrenmek Sosyalleşmenizi Sağlar
-
+-İngilizce senin için değişik fırsat kapıları açacak
+ İngilizce bilmek seni işverenlerin gözünde daha cazip kılacak
+- Pratik düşünme yeteneğinizi ve hafızanızı güçlendirebilirsiniz
+ -Özgüveninizi arttırırsınız
+ Küresel değişime ayak uydurabilirsiniz.
 
