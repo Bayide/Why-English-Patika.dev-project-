@@ -1,8 +1,9 @@
 <H1> Why English ? </H1> 
-<p> Merhabalar böyle bir blog yazısı ile girmek istedim her zaman duyuruyoruz oof ingilizce hemen sağa tıkla oradan Türkçe çeviri yap evet her şey istediğimiz gibi çünkü anlıyoruz peki ya programlama dillerinde araştırma yapınca ingilizce kaynak her zaman karşımıza çıktığı zaman hep aynı işlemi yapmak sıkıcı olmuyor mu :) 
- veya kod yazdığımız zaman kod editörlerine ihtiyaç duyduğumuz zaman ingilizce karşımıza çıkması.                                                                    
+<p> Merhabalar böyle bir blog yazısı ile girmek istedim her zaman duyuyoruz  oof ingilizce hemen sağa tıkla oradan Türkçe çeviri yap evet her şey istediğimiz gibi çünkü anlıyoruz peki ya programlama dillerinde araştırma yapınca ingilizce kaynak her zaman karşımıza çıktığı zaman hep aynı işlemi yapmak sıkıcı olmuyor mu :) 
+ veya kod yazdığımız zaman kod editörlerine ihtiyaç duyduğumuz zaman ingilizce karşımıza çıkması.    
+ 
+![images](https://user-images.githubusercontent.com/63980885/161848803-1b7abf92-8dd7-4652-acc0-d20caaef864d.jpg)
 
-![images](https://user-images.githubusercontent.com/63980885/161452477-5e8f5f95-bd7c-4e53-bad1-ec846624d47d.jpg)
 
 İyi güzel anladık diyorsunuz da neden ingilizce öğrenmesek olmaz mı çeviri var ne de olsa dediğinizi duyar gibiyim maalesef çeviri olmuyor bazı noktalarda can alıcı yerlerde farklı anlaşılmalara sebep oluyor ve bilim dili daha doğrusu herkesin anlayacağı dil İngilizce Dünya ortak dili başka bir dil olsaydı örnek japonca vs Çince bu sefer onu öğrenmemiz gerekirdi ama iyi ki olmamış aşinalığımız olmadığı için bana zor gelirdi :) 
 <ul type="disc">Maddeler halinde sıralarsak 
